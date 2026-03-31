@@ -402,10 +402,10 @@ local v123 = {
     [5] = l_core_0:with_icon("cow", " Dynamic - \a55555586japan [cloud]", "{Link Active}")
 };
 local v124 = {
-    github_token = "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", 
-    github_api_url = "https://api.github.com/repos/zxjapan/ls_config/contents/codes.txt", 
-    db_key = "userverified", 
-    github_url = "https://raw.githubusercontent.com/zxjapan/ls_config/refs/heads/main/codes.txt"
+    github_token = "", 
+    github_api_url = "h", 
+    db_key = "", 
+    github_url = ""
 };
 local _ = "\226\128\138";
 if ({
